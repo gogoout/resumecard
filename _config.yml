@@ -1,11 +1,11 @@
 # Site settings
-title: Evan Jia's CV
-description: Evan Jia's CV
+title: Evan Jia's resume
+description: Evan Jia's resume
 favicon: /assets/img/avatar.png
 baseurl: /resumecard
 url: https://gogoout.github.io/resumecard
 rss_url: /pages/atom.xml
-#google_analytics: UA-63653234-1
+google_analytics: UA-104992862-1
 
 # Build settings
 markdown: kramdown
