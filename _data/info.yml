@@ -19,6 +19,7 @@ workHistory:
    started: 2015
    duration: (2015 - 2017)
    description: |
+    [17AVR](http://www.17avr.com) is a AR/VR website. It includes a market, a news section and a forum.
     - Design the technical architecture of [17AVR](http://www.17avr.com)
       + Database based on **MongoDB**
       + a **Node** server and a **React(Redux)** front-end
@@ -29,7 +30,6 @@ workHistory:
       + server code is tested with **Chai** and **Mocha**
     - Built the app for 17AVR with **Cordova**
     - Built production environment for [17AVR](http://www.17avr.com)
-    - Leading a team with 10 members
  - work2:
    company: '[Shanghai Logi Software Co., Ltd.](http://www.logichina.com){:target="_blank"}'
    location: Shanghai
@@ -37,7 +37,8 @@ workHistory:
    started: 2012
    duration: (2012 - 2015)
    description: |
-    - Help develop 'lpromis3'(an CRM system) with **JAVA**/**JSF**/**Javascript**
+    Lpromis3 is a business process management system which people can create their own process with custom logic and ui.
+    - Help develop 'lpromis3' front-end with **JAVA**/**JSF**/**Javascript**
     - Built development environment for 'lpromis ui' & 'lpromis mobile' & 'lpromis portal' with **Gulp**/**Grunt**
     - Developed lpromis ui with **AngularJs**/**Bootstrap**/**LESS** including all **Javascript** & **LESS** code
     - Leading the development of lpromis mobile with **AngularJs**/**Ionic**/**SASS** which was available in the App Store
@@ -56,7 +57,7 @@ languages:
    proficiency: Native
  - language2:
    name: English
-   proficiency: Intermediate
+   proficiency: Advanced
 programmingSkills:
  - skill1:
    name: JavaScript

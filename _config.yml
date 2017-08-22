@@ -1,6 +1,6 @@
 # Site settings
-title: Evan Jia's resume
-description: Evan Jia's resume
+title: Evan Jia's CV
+description: Evan Jia's CV
 favicon: /assets/img/avatar.png
 baseurl: /resumecard
 url: https://gogoout.github.io/resumecard
@@ -12,5 +12,5 @@ markdown: kramdown
 
 exclude: [vendor]
 
-gems:
+plugins:
 - jekyll-autoprefixer
