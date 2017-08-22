@@ -63,23 +63,26 @@ programmingSkills:
    name: JavaScript
    percentage: 90%
  - skill2:
+   name: Node
+   percentage: 90%
+ - skill3:
    name: HTML
    percentage: 70%
- - skill3:
+ - skill4:
    name: CSS/LESS/SASS
    percentage: 80%
- - skill4:
+ - skill5:
    name: Angular
    percentage: 75%
- - skill5:
+ - skill6:
    name: React
    percentage: 85%
- - skill6:
+ - skill7:
    name: Cordova
    percentage: 70%
- - skill6:
+ - skill8:
    name: Webpack/Gulp/Grunt
    percentage: 60%
- - skill7:
+ - skill9:
    name: JAVA
    percentage: 70%
