@@ -4,7 +4,8 @@ layout: default
 <div class = "container-fluid top-container">
   <div class = "row-fluid">
     <div class = "col-xs-12 col-md-3 affix panel-wrapper animated fadeInDown">
-
+      <p class = "pdf-notice"><a href = "{{site.url}}">This pdf is a print version of the live resume: {{site.url}}</a>
+      </p>
       <div class = "row-fluid profile-container">
         <img class = "avatar img-circle center-block" src = "{{ site.favicon | prepend: site.baseurl }}"
              title = "Avatar"
@@ -185,7 +186,6 @@ layout: default
           {% endif %}
         </div>
       </div>
-      <p class="pdf-notice">This pdf is a print version of the live resume <a href="{{site.url}}">{{site.url}}</a></p>
     </div>
   </div>
 </div>

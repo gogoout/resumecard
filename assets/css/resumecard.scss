@@ -62,7 +62,6 @@ code {
   color : $primary-color;
 }
 
-
 // wrapper
 .panel-wrapper {
   margin-top : 20px;
@@ -86,7 +85,7 @@ code {
 
 // contact
 .contact-container {
-  text-align : center;
+  text-align    : center;
   padding       : 0 5px;
   margin-bottom : 20px;
   > .contact-wrapper {
@@ -313,9 +312,10 @@ $duration : 500ms;
 
 // pdf notice
 .pdf-notice {
-  margin-top : 10px;
-  text-align : center;
-  display    : none;
+  margin-top    : -12px;
+  margin-bottom : 15px;
+  text-align    : center;
+  display       : none;
   @media print {
 	display : block;
   }
