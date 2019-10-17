@@ -4,7 +4,7 @@ layout: default
 <div class = "container-fluid top-container">
   <div class = "row-fluid">
     <div class = "col-xs-12 col-md-3 affix panel-wrapper animated fadeInDown">
-      <p class = "pdf-notice"><a href = "{{site.url}}">This pdf is a print version of the live resume: {{site.url}}</a>
+      <p class = "pdf-notice"><a href = "//github.com/{{ site.data.info.author.github }}/resumecard">This pdf is a print version of the live resume: https://github.com/{{ site.data.info.author.github }}/resumecard</a>
       </p>
       <div class = "row-fluid profile-container">
         <img class = "avatar img-circle center-block" src = "{{ site.favicon | prepend: site.baseurl }}"
@@ -34,9 +34,9 @@ layout: default
                                                     target = "_blank">@{{ site.data.info.author.github }} </a></p>
           {% endif %}
           {% if site.data.info.author.linkedin %}
-          <p><i class = "fa fa-linkedin-square fa-fw"></i> <a
+          <p><i class = "fa fa-linkedin fa-fw"></i> <a
               href = "//linkedin.com/in/{{ site.data.info.author.linkedin }}"
-              target = "_blank">linkedin.com/in/{{ site.data.info.author.linkedin }} </a></p>
+              target = "_blank">/in/{{ site.data.info.author.linkedin }} </a></p>
           {% endif %}
           {% if site.data.info.author.twitter %}
           <p><i class = "fa fa-twitter fa-fw"></i> <a href = "//twitter.com/{{ site.data.info.author.twitter }}"
