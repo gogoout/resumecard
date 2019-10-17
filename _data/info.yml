@@ -3,86 +3,103 @@ author:
   name: Evan Jia
   title: Web Developer
   address: Christchurch, New Zealand
-  phone: +64-021-026-81846
-  email: gogoout@gmail.com
+  phone: +xx-xxx-xxx-xxxxxx
+  email: xxxxxxx@gmail.com
   link: http://github.com/gogoout
   weibo:
   github: gogoout
-  linkedin:
+  linkedin: gogoout
   twitter:
   gavatar: /resumecard/assets/img/avatar.png
 workHistory:
- - work1:
-   company: '[Tianshe Media Co., Ltd.](http://www.tianshemedia.com){:target="_blank"}'
-   location: Shanghai
-   title: Website Director
-   started: 2015
-   duration: (2015 - 2017)
-   description: |
-    [17AVR](http://www.17avr.com) is a AR/VR website. It includes a market, a news section and a forum.
-    - Design the technical architecture of [17AVR](http://www.17avr.com)
-      + Database based on **MongoDB**
-      + a **Node** server and a **React(Redux)** front-end
-      + Optimizing SEO with Isomophic rendering
-      + forum based on [**NodeBB**](https://github.com/NodeBB/NodeBB)
-      + Background management built with **AngularJs**
-      + style based on **Foundation-apps**
-      + server code is tested with **Chai** and **Mocha**
-    - Built the app for 17AVR with **Cordova**
-    - Built production environment for [17AVR](http://www.17avr.com)
- - work2:
-   company: '[Shanghai Logi Software Co., Ltd.](http://www.logichina.com){:target="_blank"}'
-   location: Shanghai
-   title: Vice group leader of Front End
-   started: 2012
-   duration: (2012 - 2015)
-   description: |
-    Lpromis3 is a business process management system which people can create their own process with custom logic and ui.
-    - Help develop 'lpromis3' front-end with **JAVA**/**JSF**/**Javascript**
-    - Built development environment for 'lpromis ui' & 'lpromis mobile' & 'lpromis portal' with **Gulp**/**Grunt**
-    - Developed lpromis ui with **AngularJs**/**Bootstrap**/**LESS** including all **Javascript** & **LESS** code
-    - Leading the development of lpromis mobile with **AngularJs**/**Ionic**/**SASS** which was available in the App Store
-    - Leading the development of lpromis portal with **AngularJs**/**LESS**
+  - work1:
+    company: '[AllGoods Group Limited](https://allgoods.co.nz){:target="_blank"}'
+    location: Christchurch, New Zealand
+    title: Senior Developer
+    started: 2017
+    duration: (2017 - CURRENT)
+    description: |
+      AllGoods was born out of the realisation that New Zealand e-commerce was old fashioned, slow and more expensive than many other parts of the world. We wanted to make buying and selling cheaper, faster and more fun for Kiwis.
+      - Leading the frontend development of [AllGoods](https://allgoods.co.nz)
+        + Built with with **AngularJs**/**SASS**/**Webpack**/**Node**
+        + Optimizing SEO with a Node Prerender server
+      - Built the AllGoods App ([iOS](https://apps.apple.com/vn/app/allgoods-trade-shop-snap-sell/id1438700908) and [Android](https://play.google.com/store/apps/details?id=kiwi.allgoods.tnslocal&hl=en))
+        + Built with **NativeScript**/**Angular**/**SASS**/**Ngrx**/**SocketIO**/**NX**/**NestJS**
+        + Contributed to the [**NativeScript Pro UI**](https://www.nativescript.org/ui-for-nativescript)
+        + Created serval plugins when building the app (Check my github repos)
+      - Contract work for [Rocket Lab](http://rocketlabusa.com)
+        + Built the satellite tracker for [The Humanity Star](https://www.bbc.co.uk/newsround/42831138)
+  - work2:
+    company: '[Tianshe Media Co., Ltd.](http://www.tianshemedia.com){:target="_blank"}'
+    location: Shanghai
+    title: Website Director
+    started: 2015
+    duration: (2015 - 2017)
+    description: |
+      [17AVR](http://www.17avr.com) is a AR/VR website. It includes a market, a news section and a forum.
+      - Design the technical architecture of [17AVR](http://www.17avr.com)
+        + Database based on **MongoDB**
+        + a **Node** server and a **React(Redux)** front-end
+        + Optimizing SEO with Isomophic rendering
+        + forum based on [**NodeBB**](https://github.com/NodeBB/NodeBB)
+        + Background management built with **AngularJs**
+        + style based on **Foundation-apps**
+        + server code is tested with **Chai** and **Mocha**
+      - Built the app for 17AVR with **Cordova**
+      - Built production environment for [17AVR](http://www.17avr.com)
+  - work3:
+    company: '[Shanghai Logi Software Co., Ltd.](http://www.logichina.com){:target="_blank"}'
+    location: Shanghai
+    title: Vice group leader of Front End
+    started: 2012
+    duration: (2012 - 2015)
+    description: |
+      Lpromis3 is a business process management system in which people can create their process with custom logic and UI.
+      - Help develop 'lpromis3' front-end with **JAVA**/**JSF**/**Javascript**
+      - Built development environment for 'lpromis ui' & 'lpromis mobile' & 'lpromis portal' with **Gulp**/**Grunt**
+      - Developed lpromis ui with **AngularJs**/**Bootstrap**/**LESS** including all **Javascript** & **LESS** code
+      - Leading the development of lpromis mobile with **AngularJs**/**Ionic**/**SASS** which was available in the App Store
+      - Leading the development of lpromis portal with **AngularJs**/**LESS**
 educationHistory:
- - education1:
-   organization: Shanghai University of Engineering Science
-   location: Shanghai, China
-   degree: Bachelor
-   major: Computer Science and Technology
-   started: 2008
-   duration: (2008 - 2012)
+  - education1:
+    organization: Shanghai University of Engineering Science
+    location: Shanghai, China
+    degree: Bachelor
+    major: Computer Science and Technology
+    started: 2008
+    duration: (2008 - 2012)
 languages:
- - language1:
-   name: Chinese
-   proficiency: Native
- - language2:
-   name: English
-   proficiency: Advanced
+  - language1:
+    name: Chinese
+    proficiency: Native
+  - language2:
+    name: English
+    proficiency: Professional
 programmingSkills:
- - skill1:
-   name: JavaScript
-   percentage: 90%
- - skill2:
-   name: Node
-   percentage: 90%
- - skill3:
-   name: HTML
-   percentage: 70%
- - skill4:
-   name: CSS/LESS/SASS
-   percentage: 80%
- - skill5:
-   name: Angular
-   percentage: 75%
- - skill6:
-   name: React
-   percentage: 85%
- - skill7:
-   name: Cordova
-   percentage: 70%
- - skill8:
-   name: Webpack/Gulp/Grunt
-   percentage: 60%
- - skill9:
-   name: JAVA
-   percentage: 70%
+  - skill1:
+    name: JavaScript/Typescript
+    percentage: 90%
+  - skill2:
+    name: Node
+    percentage: 90%
+  - skill3:
+    name: HTML
+    percentage: 80%
+  - skill4:
+    name: CSS/LESS/SASS
+    percentage: 80%
+  - skill5:
+    name: AngularJS
+    percentage: 90%
+  - skill6:
+    name: Angular
+    percentage: 90%
+  - skill7:
+    name: React
+    percentage: 70%
+  - skill8:
+    name: Nativescript
+    percentage: 90%
+  - skill9:
+    name: Webpack/Gulp/Grunt
+    percentage: 80%
